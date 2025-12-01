@@ -1,0 +1,6 @@
+[submodule "gymnasium"]
+	path = gymnasium
+	url = https://github.com/kevin010717/gymnasium.git
+[submodule "gymnasium-robotics"]
+	path = gymnasium-robotics
+	url = https://github.com/kevin010717/gymnasium-robotics.git
