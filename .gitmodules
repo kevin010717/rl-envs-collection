@@ -7,3 +7,6 @@
 [submodule "mujoco-learning"]
 	path = mujoco-learning
 	url = https://github.com/kevin010717/mujoco-learning.git
+[submodule "mujoco_learning"]
+	path = mujoco_learning
+	url = https://github.com/kevin010717/mujoco_learning.git
