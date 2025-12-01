@@ -16,3 +16,6 @@
 [submodule "mujoco_playground"]
 	path = mujoco_playground
 	url = https://github.com/kevin010717/mujoco_playground.git
+[submodule "mujoco_menagerie"]
+	path = mujoco_menagerie
+	url = https://github.com/kevin010717/mujoco_menagerie.git
