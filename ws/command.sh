@@ -32,6 +32,7 @@ git submodule add https://github.com/kevin010717/mujoco-learning.git
 git submodule add https://github.com/kevin010717/mujoco_learning.git
 git submodule add https://github.com/kevin010717/mujoco.git
 git submodule add https://github.com/kevin010717/mujoco_playground.git
+git submodule add https://github.com/kevin010717/mujoco_menagerie.git
 git commit -m "Add mujoco-learning as submodules"
 git push origin main
 git add .
