@@ -29,7 +29,11 @@ git submodule add https://github.com/kevin010717/gymnasium.git
 git submodule add https://github.com/kevin010717/gymnasium-robotics.git
 git submodule add https://github.com/kevin010717/mujoco.git
 git submodule add https://github.com/kevin010717/mujoco-learning.git
+git submodule add https://github.com/kevin010717/mujoco_learning.git
 git commit -m "Add mujoco-learning as submodules"
+git push origin main
+git add .
+git commit -m "1"
 git push origin main
 
 # 克隆包含子模块的仓库
